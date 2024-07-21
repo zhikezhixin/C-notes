@@ -6,3 +6,6 @@
 !*.cpp
 !*.h
 !.gitignore
+
+# Ignore .vs folder
+.vs/
